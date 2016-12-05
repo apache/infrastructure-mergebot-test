@@ -2,3 +2,4 @@ This is a manual test first.
 Let's see if mergebot can merge this!
 And another mergebot commit!
 Merging things is fun.
+Yay for mergebot!
