@@ -2,4 +2,7 @@ This is a manual test first.
 Let's see if mergebot can merge this!
 And another mergebot commit!
 Merging things is fun.
-Yay for mergebot!
+This is a line for the merger.
+This merger can line.
+once upon a time there was a mergebot
+it was a good bot
