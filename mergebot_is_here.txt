@@ -8,3 +8,4 @@ once upon a time there was a mergebot
 it was a good bot
 this is a test line for mergebot to merge.
 another test
+final test
